@@ -1,3 +1,31 @@
+# files-ui-react-19
+
+This package is a fork of [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) with added support for React 19.
+
+## Changes from original
+- Added support for React 19
+- Updated testing libraries to latest versions
+- Improved TypeScript type definitions
+
+## Original Package
+This is based on the excellent work by [JinSSJ3](https://github.com/JinSSJ3) in the [original files-ui-react package](https://github.com/files-ui/files-ui-react). Please check out the original repository for detailed documentation and examples.
+
+## Installation
+
+```bash
+npm install files-ui-react-19
+```
+
+## Usage
+Use it exactly the same way as the original package. All original features are preserved.
+
+```jsx
+import { Dropzone } from 'files-ui-react-19';
+```
+
+## License
+MIT - Same as the original package.
+
 <a href="https://www.files-ui.com">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/43678736/226257748-6ba2f8cf-59c5-40d1-a545-a388ddab0f68.png" width="150" height="150" alt="fui-logo"/>
