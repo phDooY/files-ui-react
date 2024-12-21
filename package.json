@@ -1,7 +1,7 @@
 {
-  "name": "@files-ui/react",
-  "version": "1.2.3",
-  "description": "UI components for file uploads with React js",
+  "name": "files-ui-react-19",
+  "version": "1.0.0",
+  "description": "UI components for file uploads with React js - with React 19 support",
   "main": "./build/index.js",
   "module": "./build/index.es.js",
   "types": "./build/index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/files-ui/files-ui-react.git"
+    "url": "git+https://github.com/phDooY/files-ui-react.git"
   },
   "keywords": [
     "file",
@@ -36,14 +36,15 @@
     "front-end",
     "kamui",
     "react",
-    "react-component"
+    "react-component",
+    "react-19"
   ],
-  "author": "JinSSJ3",
+  "author": "JinSSJ3 (Original), phDooY (React 19 Support)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/files-ui/files-ui-react/issues"
+    "url": "https://github.com/phDooY/files-ui-react/issues"
   },
-  "homepage": "https://www.files-ui.com",
+  "homepage": "https://github.com/phDooY/files-ui-react#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
